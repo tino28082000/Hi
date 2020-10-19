@@ -16,12 +16,9 @@ while True :
 			print("恭喜你猜對了！")
 			print("你最後猜了", count, "次！" )
 			break
-
 	elif num > r :
 			print("再低一點")
-
 	else :
 			print("再高一點")
-
 	print("你已經猜了", count, "次了！" )		
 
